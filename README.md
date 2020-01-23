@@ -1,6 +1,3 @@
-[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-glibc.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-glibc/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-glibc.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-glibc/)
-
 
 Alpine V3.11.3 GNU C library (glibc) Docker image
 =========================================
@@ -32,8 +29,3 @@ COPY ./my_app /usr/local/bin/my_app
 ```sh
 $ docker build -t my_app .
 ```
-
-There are already several images using this image, so you can refer to them as usage examples:
-
-* [`frolvlad/alpine-oraclejdk8`](https://hub.docker.com/r/frolvlad/alpine-oraclejdk8/) ([github](https://github.com/frol/docker-alpine-oraclejdk8))
-* [`frolvlad/alpine-mono`](https://hub.docker.com/r/frolvlad/alpine-mono/) ([github](https://github.com/frol/docker-alpine-mono))
