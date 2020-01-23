@@ -2,7 +2,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-glibc.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-glibc/)
 
 
-Alpine GNU C library (glibc) Docker image
+Alpine V3.11.3 GNU C library (glibc) Docker image
 =========================================
 
 This image is based on Alpine Linux image, which is only a 5MB image, and contains glibc to enable
